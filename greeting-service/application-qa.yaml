@@ -10,5 +10,5 @@ management:
         - '*'
 
 greeting-service:
-  greeting: "Yo"
+  greeting: "Yo Refresh"
   default-value: "QA"
